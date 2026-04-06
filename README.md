@@ -1,14 +1,6 @@
-# Core program week X assignment
-HackYourFuture <Track> week X assignment
+# Core program week 13 assignment
+The week 13 assignment for the HackYourFuture Core program can be found at the following link: https://hub.hackyourfuture.nl/core-program-week-13-assignment
 
 ## Implementation Instructions
-Provide clear instructions on how trainees should implement the tasks.
-
 ### Task 1
-Instructions for Task 1
-
-### Task 2
-Instructions for Task 2
-
-...
-
+Add your gitHub action file in `task-1/.github/workflows/ci.yaml`
