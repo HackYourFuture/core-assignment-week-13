@@ -3,4 +3,4 @@ The week 13 assignment for the HackYourFuture Core program can be found at the f
 
 ## Implementation Instructions
 ### Task 1
-Add your gitHub action file in `task-1/.github/workflows/ci.yaml`
+Add your gitHub action file in `.github/workflows/task-1.yaml` (Note: inside the existing .github folder found on the root of the repository)
